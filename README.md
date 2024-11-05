@@ -1,3 +1,6 @@
+# Original Figma Designs
+https://www.figma.com/design/oE2fc8ZsYAen8DWjQv5Nc9/Project-2?node-id=0-1&t=LFrIY6JCnhueXDP1-1
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
