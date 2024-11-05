@@ -6,7 +6,7 @@ console.log('Current environment:', process.env.NODE_ENV);
 
 function App() {
   return (
-    <Router basename='/Nav-App'>
+    <Router basename='/TechNav'>
       <div className="App">
         <Routes>
           <Route path="/" element={<HomeScreen />} />
