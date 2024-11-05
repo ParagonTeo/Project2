@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/paragonteo/TechNav/static/css/main.913c2bd9.css",
-    "main.js": "/paragonteo/TechNav/static/js/main.01ddc6d5.js",
-    "static/js/453.0a9f4b6c.chunk.js": "/paragonteo/TechNav/static/js/453.0a9f4b6c.chunk.js",
-    "index.html": "/paragonteo/TechNav/index.html",
-    "main.913c2bd9.css.map": "/paragonteo/TechNav/static/css/main.913c2bd9.css.map",
-    "main.01ddc6d5.js.map": "/paragonteo/TechNav/static/js/main.01ddc6d5.js.map",
-    "453.0a9f4b6c.chunk.js.map": "/paragonteo/TechNav/static/js/453.0a9f4b6c.chunk.js.map"
+    "main.css": "/TechNav/static/css/main.913c2bd9.css",
+    "main.js": "/TechNav/static/js/main.3ff783e1.js",
+    "static/js/453.0a9f4b6c.chunk.js": "/TechNav/static/js/453.0a9f4b6c.chunk.js",
+    "index.html": "/TechNav/index.html",
+    "main.913c2bd9.css.map": "/TechNav/static/css/main.913c2bd9.css.map",
+    "main.3ff783e1.js.map": "/TechNav/static/js/main.3ff783e1.js.map",
+    "453.0a9f4b6c.chunk.js.map": "/TechNav/static/js/453.0a9f4b6c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.913c2bd9.css",
-    "static/js/main.01ddc6d5.js"
+    "static/js/main.3ff783e1.js"
   ]
 }
