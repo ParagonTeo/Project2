@@ -1,4 +1,4 @@
-import { HashRouter as Router, Route, Routes } from 'react-router-dom';
+import { BrowserRouter as Router, Route, Routes } from 'react-router-dom';
 import HomeScreen from './components/home';
 import Map from './components/map';
 
@@ -6,7 +6,7 @@ console.log('Current environment:', process.env.NODE_ENV);
 
 function App() {
   return (
-    <Router>
+    <Router basename="/TechNav">
       <div className="App">
         <Routes>
           <Route path="/" element={<HomeScreen />} />
